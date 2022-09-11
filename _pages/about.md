@@ -14,4 +14,4 @@ I graduated from [Department of Biostatistics](https://www.biostat.washington.ed
 
 My [CV](/files/CV.pdf).
 
-Some research keywords that catch my eyes: nonparametric + (regression/testing, among many others); model selection and [fine-mapping](https://en.wikipedia.org/wiki/Genome-wide_association_study#Fine-mapping).
+Some research keywords that catch my eyes: nonparametric methods; model selection; online estimation; [fine-mapping](https://en.wikipedia.org/wiki/Genome-wide_association_study#Fine-mapping).
