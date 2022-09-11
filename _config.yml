@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Tianyu Zhang 张天宇"
-  avatar           : "profile.png"
-  bio              : "Postdoc\n Department of Statistics & Data Science \n iiCarnegie Mellon University"
+  avatar           : "DepartmentPhoto.jpg"
+  # bio              : "Postdoc."
   location         : "Pittsburgh, PA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "terrytianyuzhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
