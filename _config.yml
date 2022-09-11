@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Tianyu Zhang: About Me"
 title_separator          : "-"
 name                     : &name "Tianyu Zhang"
 description              : &description "personal description"
