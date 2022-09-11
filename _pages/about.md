@@ -13,3 +13,5 @@ I am a postdoctoral researcher at [Department of Statistics & Data Science](http
 I graduated from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation supervisor was Professor [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Some educational stat [videos](https://www.youtube.com/channel/UCYT3ZjN2VEOUosPoMPnI1-Q/featured) from him. Before graduate school I studied some biology and math in Beijing, China.
 
 [CV](https://github.com/terrytianyuzhang/terrytianyuzhang.github.io/blob/master/files/CV.pdf)
+
+!
