@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is on scalable statistical learning methods that are mathematically rigorous and computationally efficient.
+My research mainly focuses on scalable statistical learning methods that are mathematically rigorous and computationally efficient.
 
 I am currently a postdoctoral researcher at [Department of Statistics & Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html), Carnegie Mellon University. I am engaged in both applied and theoretical research projects in collaboration with Professor [Kathryn Roeder](https://www.stat.cmu.edu/~roeder/) and Professor [Jing Lei](https://www.stat.cmu.edu/~jinglei/). 
 
