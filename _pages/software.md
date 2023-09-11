@@ -25,43 +25,43 @@ Revised code to be posted soon. For current code, send email request.
 
 # Methods for modeling bulk and single-cell RNA-seq data
 
-**sLED**: Testing differences between high-dimensional covariance matrices
-https://github.com/lingxuez/sLED
+**sLED**: Testing differences between high-dimensional covariance matrices. [Code](https://github.com/lingxuez/sLED)
 
-**MIND**: Using multiple measurements of tissue to estimate subject- and cell-type-specific gene expression
-https://github.com/randel/MIND
+
+**MIND**: Using multiple measurements of tissue to estimate subject- and cell-type-specific gene expression. [Code](https://github.com/randel/MIND)
+
  
-**bMIND**: Bayesian estimation of cell type-specific gene expression with prior derived from single-cell data
-https://github.com/randel/MIND
+**bMIND**: Bayesian estimation of cell type-specific gene expression with prior derived from single-cell data. [Code](https://github.com/randel/MIND)
 
-**MarkerPen**: Identification of cell-type-specific marker genes from co-expression patterns in tissue samples
-https://CRAN.R-project.org/package=markerpen
 
-**PisCES**: Global spectral clustering in dynamic networks
-https://github.com/letitiaLiu/PisCES
+**MarkerPen**: Identification of cell-type-specific marker genes from co-expression patterns in tissue samples. [Code](https://CRAN.R-project.org/package=markerpen)
 
-**URSM**: A Unified RNA Sequencing Model (URSM) for joint analysis of single cell and bulk RNA-seq data.
-https://github.com/lingxuez/URSM
+
+**PisCES**: Global spectral clustering in dynamic networks. [Code](https://github.com/letitiaLiu/PisCES)
+
+
+**URSM**: A Unified RNA Sequencing Model (URSM) for joint analysis of single cell and bulk RNA-seq data. [Code](https://github.com/lingxuez/URSM)
+
 
 
 # Methods for modeling single-cell data
 
-**SOUP**: Semi-soft clustering for single-cells in developmental trajectoris
-https://github.com/lingxuez/SOUPR
+**SOUP**: Semi-soft clustering for single-cells in developmental trajectoris. [Code](https://github.com/lingxuez/SOUPR)
 
-**locCSN**: Constructing local cell-specific networks from single-cell data
-https://github.com/xuranw/locCSN
 
-**aLDG**: Moving from local to global gene co-expression estimation using single-cell RNA-seq with the aLDG dependence measure and others
-https://github.com/JINJINT/aLDG
+**locCSN**: Constructing local cell-specific networks from single-cell data. [Code](https://github.com/xuranw/locCSN)
 
-**SCEPTRE**: Analysis of single-cell CRISPR screen perturbation experiments
-https://github.com/Katsevich-Lab/sceptre
+
+**aLDG**: Moving from local to global gene co-expression estimation using single-cell RNA-seq with the aLDG dependence measure and others. [Code](https://github.com/JINJINT/aLDG)
+
+
+**SCEPTRE**: Analysis of single-cell CRISPR screen perturbation experiments. [Code](https://github.com/Katsevich-Lab/sceptre)
+
 
 **GLMeiv**: Exponential family measurement error models
-for single-cell CRISPR screens
-https://github.com/timothy-barry/glmeiv
+for single-cell CRISPR screens. [Code](https://github.com/timothy-barry/glmeiv)
 
-**scVAEIT**: Probabilistic modeling for single-cell multimodal mosaic integration and imputation
-https://github.com/jaydu1/scVAEIT
+
+**scVAEIT**: Probabilistic modeling for single-cell multimodal mosaic integration and imputation. [Code](https://github.com/jaydu1/scVAEIT)
+
 
