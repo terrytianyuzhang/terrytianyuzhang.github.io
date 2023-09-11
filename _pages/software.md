@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
+---------
+
 # Genetic Risk
 
 **TADA**: Testing for genetic association to identify risk genes using de novo and inherited genetic variants 
-Newest version in is described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9653013/
-With code https://github.com/talkowski-lab/TADA_2022 
+Newest version is described [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9653013/)
+With code on [Github](https://github.com/talkowski-lab/TADA_2022) 
 
 DAWN: A framework to identify risk genes and subnetworks using gene expression and genetics
 Revised code to be posted soon.  For current code, send email request.
