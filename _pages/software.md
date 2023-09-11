@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Genetic Risk
+# Genetic Risk
 
-TADA: Testing for genetic association to identify risk genes using de novo and inherited genetic variants 
+**TADA**: Testing for genetic association to identify risk genes using de novo and inherited genetic variants 
 Newest version in is described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9653013/
 With code https://github.com/talkowski-lab/TADA_2022 
 
@@ -21,7 +21,7 @@ https://github.com/mikkoch/unicorn-qc
 
 (Joint lassosum maybe we can post this one soon!)
 
-Methods for modeling bulk and single-cell RNA-seq data
+# Methods for modeling bulk and single-cell RNA-seq data
 
 sLED: Testing differences between high-dimensional covariance matrices
 https://github.com/lingxuez/sLED
@@ -42,7 +42,7 @@ URSM: A Unified RNA Sequencing Model (URSM) for joint analysis of single cell an
 https://github.com/lingxuez/URSM
 
 
-Method for modeling single-cell data
+# Methods for modeling single-cell data
 
 SOUP: Semi-soft clustering for single-cells in developmental trajectoris
 https://github.com/lingxuez/SOUPR
