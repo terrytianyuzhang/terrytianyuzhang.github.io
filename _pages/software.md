@@ -9,7 +9,7 @@ redirect_from:
 
 ---------
 
-# Genetic Risk
+# Genetic Risk()()
 
 **TADA**: Testing for genetic association to identify risk genes using de novo and inherited genetic variants 
 Newest version is described [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9653013/)
@@ -18,7 +18,7 @@ Newest version is described [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
 **DAWN**: A framework to identify risk genes and subnetworks using gene expression and genetics
 Revised code to be posted soon. For current code, send email request.
 
-**UNICORN**: A Data Harmonization Pipeline To Leverage External Controls AND BOOST POWER IN GWAS. [Code](https://github.com/mikkoch/unicorn-qc).
+**UNICORN**: A Data Harmonization Pipeline To Leverage External Controls AND BOOST POWER IN GWAS. [Code](https://github.com/mikkoch/unicorn-qc).()()
 
 
 (Joint lassosum maybe we can post this one soon!)
