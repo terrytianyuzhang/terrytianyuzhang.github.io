@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
----------
+***
 
 # Genetic Risk
 
@@ -24,7 +24,7 @@ Revised code to be posted soon. For current code, send email request.
 
 (Joint lassosum maybe we can post this one soon!)
 
-
+***
 # Methods for modeling bulk and single-cell RNA-seq data
 
 
@@ -45,7 +45,7 @@ Revised code to be posted soon. For current code, send email request.
 
 **URSM**: A Unified RNA Sequencing Model (URSM) for joint analysis of single cell and bulk RNA-seq data. [Code](https://github.com/lingxuez/URSM).
 
-
+***
 # Methods for modeling single-cell data
 
 
