@@ -25,6 +25,7 @@ Most of my methodology works have a companion R package. I also mix in some C++ 
 ### [Sieve](https://cran.r-project.org/web/packages/Sieve/index.html) on R CRAN:
 
 Tianyu Zhang and Jing Lei. "Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data."
+
 Tianyu Zhang and Noah Simon. "A Sieve Stochastic Gradient Descent Estimator for Online Nonparametric Regression in Sobolev Ellipsoids."
 
 ### [HMC](https://cran.r-project.org/web/packages/HMC/index.html) on R CRAN:
