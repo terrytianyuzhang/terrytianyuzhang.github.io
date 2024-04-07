@@ -20,7 +20,7 @@ My research mainly focuses on scalable statistical learning methods that are mat
 
 ## Software
 
-Most of my methodology works have a companion R package. I sometimes mix in some C++ to improve the efficiency. It is hard to keep the package information up-to-date in peer-reviewed publications so I list them here for your ease of reference. 
+Most of my methodology works have a companion R package. I also mix in some C++ to improve the computational efficiency when needed. It is hard to keep the package information up-to-date in peer-reviewed publications so I list them here for your ease of reference. 
 
 ### [Sieve](https://cran.r-project.org/web/packages/Sieve/index.html) on R CRAN:
 
