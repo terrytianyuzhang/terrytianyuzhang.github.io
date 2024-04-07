@@ -17,3 +17,21 @@ You can find my CV [here](/files/CV.pdf).
 ## Research Interest
 
 My research mainly focuses on scalable statistical learning methods that are mathematically rigorous and computationally efficient. Some research keywords that catch my eyes: nonparametric methods (especially those based on basis expansion and reproducing kernels); model selection (cross-validation and its variants); online estimation with streaming data.
+
+## Software
+
+Most of my methodology works have a companion R package. I sometimes mix in some C++ to improve the efficiency. It is hard to keep the package information up-to-date in peer-reviewed publications so I list them here for your ease of reference. 
+
+### [Sieve](https://cran.r-project.org/web/packages/Sieve/index.html) on R CRAN:
+
+Tianyu Zhang and Jing Lei. "Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data."
+Tianyu Zhang and Noah Simon. "A Sieve Stochastic Gradient Descent Estimator for Online Nonparametric Regression in Sobolev Ellipsoids."
+
+### [HMC](https://cran.r-project.org/web/packages/HMC/index.html) on R CRAN:
+
+Tianyu Zhang, Jing Lei, and Kathryn Roeder. "Debiased Projected Two-Sample Comparisonscfor Single-Cell Expression Data."
+
+### [Joint-Lassosum](https://github.com/terrytianyuzhang/JointLassosum) on Github:
+
+Tianyu Zhang, Geyu Zhou, Lambertus Klei, Peng Liu, Alexandra Chouldechova, Hongyu Zhao, Kathryn Roeder, Max G'Sell, and Bernie Devlin. "Evaluating and Improving Health Equity and Fairness of Polygenic Scores."
+ 
