@@ -12,7 +12,7 @@ I am a postdoctoral researcher at [Department of Statistics & Data Science](http
 
 I received my PhD (2022) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
 
-You can find my CV [here](/files/CV.pdf).
+You can find my CV with a complete list of publication [here](/files/CV.pdf).
 
 ## Research Interest
 
