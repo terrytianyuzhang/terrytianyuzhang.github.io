@@ -12,11 +12,21 @@ I am a postdoctoral researcher at [Department of Statistics & Data Science](http
 
 I received my PhD (2022) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
 
-You can find my CV with a complete list of publication [here](/files/CV.pdf).
 
-## Research Interest
+## Research Interests
 
-My research mainly focuses on scalable statistical learning methods that are mathematically rigorous and computationally efficient. Some research keywords that catch my eyes: nonparametric methods (basis expansion, reproducing kernel and shape-constrained); model selection (cross-validation and its variants); online estimation with streaming data. Single-cell RNA sequencing data analysis (new questions and new methods), polygenic risk score (and related health disparity issues).
+I’m interested in developing statistical learning methods that are computationally scalable, grounded in solid theory, and robust in practice, including:
+
+- **Nonparametric methods** (e.g., basis expansions, reproducing kernels, and shape-constrained estimation)  
+- **Model selection techniques** (especially cross-validation and its variants)  
+- **Online estimation with streaming data**  
+- **Single-cell RNA sequencing analysis** (both novel questions and methodological developments)  
+- **Polygenic risk scores** and associated **health disparity issues**
+
+
+## Publications 
+
+A complete list of my publications is available in my [CV](/files/CV.pdf).
 
 ## Software
 
