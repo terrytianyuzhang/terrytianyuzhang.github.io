@@ -31,7 +31,7 @@ Tianyu Zhang and Noah Simon. "A Sieve Stochastic Gradient Descent Estimator for 
 
 Tianyu Zhang, Jing Lei, and Kathryn Roeder. "Debiased Projected Two-Sample Comparisonscfor Single-Cell Expression Data."
 
-### [Joint-Lassosum](https://github.com/terrytianyuzhang/JointLassosum) on Github:
+### [Joint-Lassosum](https://github.com/terrytianyuzhang/JointLassosum) on Github (with L. Klei and P. Liu as lead contributors):
 
 Tianyu Zhang, Geyu Zhou, Lambertus Klei, Peng Liu, Alexandra Chouldechova, Hongyu Zhao, Kathryn Roeder, Max G'Sell, and Bernie Devlin. "Evaluating and Improving Health Equity and Fairness of Polygenic Scores."
  
