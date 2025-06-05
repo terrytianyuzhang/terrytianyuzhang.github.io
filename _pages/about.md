@@ -20,9 +20,7 @@ I’m interested in developing statistical learning methods that are computation
 - **Nonparametric methods** (e.g., basis expansions, reproducing kernels, and shape-constrained estimation)  
 - **Model selection techniques** (especially cross-validation and its variants)  
 - **Online estimation with streaming data**  
-- **Single-cell RNA sequencing analysis** (both novel questions and methodological developments)  
-- **Polygenic risk scores** and associated **health disparity issues**
-
+- **Single-cell RNA sequencing analysis** (both novel scientific questions and methodological developments)  
 
 ## Publications 
 
