@@ -31,7 +31,7 @@ A complete list of my publications is available in my [CV](/files/CV.pdf).
 
 Most of my methodology works have a companion R package. I also mix in some C++ to improve the computational efficiency when needed. It is hard to keep the package information up-to-date in peer-reviewed publications so I list them here for your ease of reference.
 
-### argminCS. [Github](https://cran.r-project.org/web/packages/Sieve/index.html). [Tutorial](http://xu3cl4.github.io/argminCS/demo_CSargmin.html) (H. Lee is the developer of this package):
+### argminCS. [Github](https://cran.r-project.org/web/packages/Sieve/index.html). [Tutorial](http://xu3cl4.github.io/argminCS/demo_CSargmin.html) (Hao Lee is the developer of this package):
 
 Tianyu Zhang, Hao Lee, and Jing Lei. "Winners with confidence: Discrete argmin inference with an application to model selection".
 
@@ -39,7 +39,7 @@ Tianyu Zhang, Hao Lee, and Jing Lei. "Winners with confidence: Discrete argmin i
 
 Tianyu Zhang and Jing Lei. "Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data."<br> Tianyu Zhang and Noah Simon. "A Sieve Stochastic Gradient Descent Estimator for Online Nonparametric Regression in Sobolev Ellipsoids."
 
-### HMC. [R CRAN](https://cran.r-project.org/web/packages/HMC/index.html). [Tutorial](https://terrytianyuzhang.github.io/HMC/HMC_tutorial.html):
+### HMC. [R CRAN](https://cran.r-project.org/web/packages/HMC/index.html). [Tutorial](https://terrytianyuzhang.github.io/HMC/HMC_tutorial.html) (co-developed with Ergan Shang):
 
 Tianyu Zhang, Jing Lei, and Kathryn Roeder. "Debiased Projected Two-Sample Comparisonscfor Single-Cell Expression Data."
 
