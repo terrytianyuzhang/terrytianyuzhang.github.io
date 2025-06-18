@@ -12,9 +12,11 @@ I am a postdoctoral researcher at [Department of Statistics & Data Science](http
 
 I received my PhD (2022) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
 
+#### I will join the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/) at the University of California, Santa Barbara in Fall 2025.
+
 ## Research Interests
 
-I’m interested in developing statistical learning methods that are computationally scalable, grounded in solid theory, and robust in practice, including:
+I'm interested in developing statistical learning methods that are computationally scalable, grounded in solid theory, and robust in practice, including:
 
 -   **Nonparametric methods** (e.g., basis expansions, reproducing kernels, and shape-constrained estimation)
 -   **Model selection techniques** (especially cross-validation and its variants)
