@@ -31,7 +31,7 @@ A complete list of my publications is available in my [CV](/files/CV.pdf).
 
 Most of my methodology works have a companion R package. I also mix in some C++ to improve the computational efficiency when needed. It is hard to keep the package information up-to-date in peer-reviewed publications so I list them here for your ease of reference.
 
-### argminCS. [Github](https://cran.r-project.org/web/packages/Sieve/index.html). [Tutorial](http://xu3cl4.github.io/argminCS/demo_CSargmin.html) (Hao Lee is the developer of this package):
+### argminCS. [Github](https://github.com/xu3cl4/argminCS/). [Tutorial](http://xu3cl4.github.io/argminCS/demo_CSargmin.html) (Hao Lee is the developer of this package):
 
 Tianyu Zhang, Hao Lee, and Jing Lei. "Winners with confidence: Discrete argmin inference with an application to model selection".
 
