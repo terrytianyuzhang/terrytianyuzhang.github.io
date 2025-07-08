@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [Department of Statistics & Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html), Carnegie Mellon University, hosted by Dr. [Kathryn Roeder](https://www.stat.cmu.edu/~roeder/) and Dr. [Jing Lei](https://www.stat.cmu.edu/~jinglei/).
+I am an Assistant Professor in the Department of Statistics and Applied Probability ([PSTAT](https://www.pstat.ucsb.edu/about)) at the University of California, Santa Barbara.
 
-I received my PhD (2022) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
+From 2022 to June. 2025, I was a postdoctoral researcher at [Department of Statistics & Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html), Carnegie Mellon University, hosted by Dr. [Kathryn Roeder](https://www.stat.cmu.edu/~roeder/) and Dr. [Jing Lei](https://www.stat.cmu.edu/~jinglei/).
 
-**I will join [PSTAT](https://www.pstat.ucsb.edu/about) at the University of California, Santa Barbara in Fall 2025.**
+I received my PhD (2017-22) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
+
 
 ## Research Interests
 
@@ -46,3 +47,7 @@ Tianyu Zhang, Jing Lei, and Kathryn Roeder. "Debiased Projected Two-Sample Compa
 ### Joint-Lassosum. [Github](https://github.com/terrytianyuzhang/JointLassosum) (with L. Klei and P. Liu as lead contributors):
 
 Tianyu Zhang, Geyu Zhou, Lambertus Klei, Peng Liu, Alexandra Chouldechova, Hongyu Zhao, Kathryn Roeder, Max G'Sell, and Bernie Devlin. "Evaluating and Improving Health Equity and Fairness of Polygenic Scores."
+
+## Life
+
+We have two [guinea pigs](/files/guinea_pigs.JPG)
