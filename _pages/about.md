@@ -40,7 +40,7 @@ Tianyu Zhang, Hao Lee, and Jing Lei. "Winners with confidence: Discrete argmin i
 
 Tianyu Zhang and Jing Lei. "Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Streaming Data."<br> Tianyu Zhang and Noah Simon. "A Sieve Stochastic Gradient Descent Estimator for Online Nonparametric Regression in Sobolev Ellipsoids."
 
-### HMC. [R CRAN](https://cran.r-project.org/web/packages/HMC/index.html). [Tutorial](https://terrytianyuzhang.github.io/HMC/HMC_tutorial.html) (co-developed with Ergan Shang):
+### HMC. [Github](https://github.com/terrytianyuzhang/HMC). [R CRAN](https://cran.r-project.org/web/packages/HMC/index.html). [Tutorial](https://terrytianyuzhang.github.io/HMC/HMC_tutorial.html) (co-developed with Ergan Shang):
 
 Tianyu Zhang, Jing Lei, and Kathryn Roeder. "Debiased Projected Two-Sample Comparisonscfor Single-Cell Expression Data."
 
