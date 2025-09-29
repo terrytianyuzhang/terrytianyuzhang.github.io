@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Statistics and Applied Probability ([PSTAT](https://www.pstat.ucsb.edu/about)) at the University of California, Santa Barbara.
+I am an Assistant Professor in the Department of Statistics and Applied Probability ([PSTAT](https://www.pstat.ucsb.edu/)) at the University of California, Santa Barbara.
 
 From 2022 to June. 2025, I was a postdoctoral researcher at [Department of Statistics & Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html), Carnegie Mellon University, hosted by Dr. [Kathryn Roeder](https://www.stat.cmu.edu/~roeder/) and Dr. [Jing Lei](https://www.stat.cmu.edu/~jinglei/).
 
