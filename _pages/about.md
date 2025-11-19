@@ -14,7 +14,6 @@ From 2022 to June. 2025, I was a postdoctoral researcher at [Department of Stati
 
 I received my PhD (2017-22) from [Department of Biostatistics](https://www.biostat.washington.edu/), University of Washington. My dissertation advisor was Dr. [Noah Simon](https://www.biostat.washington.edu/people/noah-simon). Before graduate school, I double-majored in biology and math at Peking University (2013-17). I also worked on business-motivated problems at Amazon and FOXO Technologies.
 
-
 ## Research Interests
 
 I'm interested in developing statistical learning methods that are computationally scalable, grounded in solid theory, and robust in practice, including:
